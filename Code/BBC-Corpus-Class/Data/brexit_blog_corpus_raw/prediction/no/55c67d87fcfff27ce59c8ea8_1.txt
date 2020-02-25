@@ -1,0 +1,1 @@
+Then, it adopts a time zone shared with Japan and South Korea.

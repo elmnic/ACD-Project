@@ -1,0 +1,1 @@
+It was a stupid idea that was designed to fail right out of the box.

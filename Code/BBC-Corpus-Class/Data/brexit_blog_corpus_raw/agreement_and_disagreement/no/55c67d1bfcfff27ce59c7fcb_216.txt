@@ -1,0 +1,1 @@
+The constituency seats are treated as list seats in the calculation based on the list vote totals in order to get the final MSP numbers for each party.

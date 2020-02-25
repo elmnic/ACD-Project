@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572267541650.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B928FFEA",
+    "lastKnownWriteTime" : 8026259498347936290,
+    "last_content_update" : 1572267541650,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "d7f2babc6d37452ebe7490e048aeb8cc",
+        "name" : "cm_rf_pred_up",
+        "title" : "cm_rf_pred_up"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

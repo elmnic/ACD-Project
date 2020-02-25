@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571924866675.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4C86CA22",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1571924866675,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "69BFC126",
+        "caption" : "cMatrix",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=cMatrix&cache_key=69BFC126",
+        "displayedObservations" : 100,
+        "environment" : "",
+        "expression" : "cMatrix",
+        "object" : "cMatrix",
+        "preview" : 0,
+        "totalObservations" : 100,
+        "variables" : 3
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572218111383.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3945811120",
+    "id" : "1D65AEE7",
+    "lastKnownWriteTime" : 1572276798,
+    "last_content_update" : 1572276798004,
+    "path" : "E:/Dropbox/Skola/Data_Science/Y2/ACD/Project/Code/BBC-Corpus-Class/utterance_classification.R",
+    "project_path" : "utterance_classification.R",
+    "properties" : {
+        "cursorPosition" : "224,0",
+        "scrollLine" : "206"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

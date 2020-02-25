@@ -1,0 +1,1 @@
+It will simply be something for the computer to determine what currency you will pay in when you present them your credit card or send a wire in another country.
